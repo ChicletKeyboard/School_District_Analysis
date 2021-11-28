@@ -12,7 +12,9 @@ Here are how the seven school district metrics that were analyzed were changed d
 * Bottom 5 performing schools based on overall passing rate
 *     There was no change in the ranking of the 5 worst-performing schools after the updated analysis was conducted.
 * Average math score for each grade by school
+*     Since only data from Thomas High School was removed, the average math score of other schools would be unaffected. Even so, Thomas High School's average math score changed by less than 0.2% overall.
 * Average reading score for each grade by school
+*     Thomas High School was thee only school that saw a changed average reading score but even that was an extremely small change (by less than 0.5%) that saw their standings compared to other schools unchanged even with the fradulent grades corrected.
 * Scores by school spending
 *     Student scores depending on spending per student was not affected by the removal of the corrupted data.
 * Scores by school size
@@ -23,5 +25,3 @@ Here are how the seven school district metrics that were analyzed were changed d
 ## Summary
 
 The four major changes that occurred is the number of total students, the number of students counted at Thomas High School, the average math and reading scores, and the overall percentages for math and reading at Thomas High School. The removal of data implies a decrease in the count of total students overall, and total students at Thomas High School, specifically for this analysis. And since the population amount was decreased, this leads to a change in average scores and score percentages. Due to the fact that these score and percentage changes were minimal, we can assume that the removal of math and reading scores of 9th graders at Thomas High School not as significant as we would imagine it to be.
-       
-There were four major changes that occurerd due to the removal of of the 9th-grade test scores at Thomas High School.
