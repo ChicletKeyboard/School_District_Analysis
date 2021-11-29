@@ -4,7 +4,7 @@
 This analysis was conducted to replace corrupted data for 9th-grade students' math and reading scores at Thomas High School, while keeping the rest of the dataset intact for a follow-on analysis. The metrics we wanted to analyze included: total school budget, per school capita, average math and reading scores, the passing percentage of said math and reading scorres, and the overall passing percentage broken down by schools or the type of schools the students attended.
 
 ## Results
-After separating the corrupted data, much of the analysis remained the same as the original report. Given that the removed section made up only a small part of the dataset, their removal did not drastically changee our analysis. Comparing the _original data__ to the updated analysis _image_ we can see the overall analysis for the district remained similar.
+After separating the corrupted data, much of the analysis remained the same as the original report. Given that the removed section made up only a small part of the dataset, their removal did not drastically changee our analysis. Comparing data of the school summary with the ![original data](/School_District_Analysis/Resources/School_Summary_Metrics_Original.png) to the ![updated analysis](/School_District_Analysis/Resources/School_Summary_Metrics_Edited.png) we can see the overall analysis for the district remained similar.
 
 Here are how the seven school district metrics that were analyzed were changed due to the removal of the ninth-grade math and reading scores of Thomas High School:
 * Top 5 performing schools based on overall passing rate
